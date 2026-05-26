@@ -108,17 +108,23 @@ The primary objective of this project is to:
 # Dashboard Preview
 
 ## Executive Dashboard
-Dashboard.png
+
+![Executive Dashboard](Dashboard.png)
+
+---
 
 ## AI-Driven Churn Analysis
-insight.png
+
+![AI Insights](insight.png)
 
 ---
 
 # Project Outcome
+
 Successfully developed a professional and interactive Customer Churn Intelligence Dashboard capable of delivering strategic business insights, advanced churn analysis, and executive-level reporting for customer retention optimization.
 
 ---
 
 # Author
+
 Sunaina Taj
